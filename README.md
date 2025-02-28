@@ -1,4 +1,4 @@
-# SQL-e-commerce-analysis
+# SQL Analysis for Target, Brazil-an-e-commerce project-analysis 
 
 This SQL data analysis has been done on a Target ZIP file archive downloaded from Kaggle. 
 About Dataset
